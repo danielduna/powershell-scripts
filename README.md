@@ -23,3 +23,12 @@ To run any script:
 1. Clone or download the repo:
    ```bash
    git clone https://github.com/danielduna/powershell-scripts.git
+   
+# 🛠️ PowerShell Scripts Collection
+
+![PowerShell](https://img.shields.io/badge/Built%20With-PowerShell-5391FE?logo=powershell&logoColor=white)
+![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet)
+![MIT License](https://img.shields.io/github/license/danielduna/powershell-scripts)
+![Repo Size](https://img.shields.io/github/repo-size/danielduna/powershell-scripts)
+![Last Commit](https://img.shields.io/github/last-commit/danielduna/powershell-scripts)

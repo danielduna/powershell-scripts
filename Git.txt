@@ -1,0 +1,15 @@
+winget install -e --id Git.Git
+
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+git clone https://github.com/username/repository.git
+cd repository
+
+mkdir NewFolder
+
+git add .
+git commit -m "Folder & Files Uploaded"
+git push origin master
+
+
